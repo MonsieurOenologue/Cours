@@ -1,8 +1,5 @@
 # Systèmes d'exploitation
 
-Philippe Laroque  
-laroque@cergy.fr
-
 ###  Introduction / Rappels
 
 ### Gestion des processus
@@ -289,3 +286,5 @@ int main(){
     genSearch(2, 4, manqueuntruc, ...));
 }
 ```
+
+Remerciements à Philippe Laroque pour ce cours.
