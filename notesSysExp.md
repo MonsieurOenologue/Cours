@@ -16,17 +16,6 @@
 - Pagination
 - Mémoire virtuelle
 
-
-
-#### Validation
-
-* 50% TP noté
-* 50% examen papier
-
-#### Information
-
-* Ne pas arriver + 1/4 d'heure en retard aux TD (c'est mort)
-
 ---
 
 ## Introduction / Rappels
