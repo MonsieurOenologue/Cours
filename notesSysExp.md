@@ -287,4 +287,6 @@ int main(){
 }
 ```
 
+___
+
 Remerciements à Philippe Laroque pour ce cours.
